@@ -1,0 +1,1 @@
+This dir is a collection of all the Micropython modules i've made/tested over the years. Mainly for esp32 / esp32-s3 
